@@ -1,0 +1,17 @@
+{
+  "name": "leoggo/page_standard",
+  "description": "Enable a 'page standard'content type",
+  "homepage": "https://github.com/drudrup/page_standard",
+  "type": "drupal-module",
+  "authors": [
+    {
+      "name": "Anthony Brard",
+      "email": "contact@leoggo.net",
+      "homepage": "https://www.leoggo.net",
+      "role": "Developer"
+    }
+   ],
+   "require": {
+      "composer/installers": "~1.0"
+   }
+  }
